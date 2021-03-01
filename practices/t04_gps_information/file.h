@@ -1,0 +1,1 @@
+int get_info(char *file_name, char *buffer);

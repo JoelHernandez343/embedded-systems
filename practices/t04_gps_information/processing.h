@@ -1,0 +1,1 @@
+int analize_line(char *line, char **parameters);
