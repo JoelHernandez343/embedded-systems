@@ -1,0 +1,4 @@
+time-server
+*.o
+**/client
+!client/
